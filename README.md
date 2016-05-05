@@ -1,2 +1,1 @@
- 
- It's a static web template
+It's a static web template
